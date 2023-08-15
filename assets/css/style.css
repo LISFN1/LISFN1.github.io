@@ -1,10 +1,3 @@
-/**
-* Template Name: Company
-* Updated: Mar 10 2023 with Bootstrap v5.2.3
-* Template URL: https://bootstrapmade.com/company-free-html-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
 /*--------------------------------------------------------------
 # General
@@ -66,6 +59,17 @@ h6 {
   opacity: 1;
 }
 
+/*--------------------------------------------------------------
+# Submit button
+--------------------------------------------------------------*/
+#submit{
+  margin-top: 20px;
+  background-color: lightgreen;
+  color: #fff;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+}
 /*--------------------------------------------------------------
 # Disable AOS delay on mobile
 --------------------------------------------------------------*/
